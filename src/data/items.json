@@ -1,0 +1,32 @@
+[
+	{
+        "id": 1,
+        "name": "Camera",
+        "price": 369.99,
+        "imageUrl": "/assets/camera.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Earphones",
+        "price": 99.99,
+        "imageUrl": "/assets/earphones.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Mic",
+        "price": 179.99,
+        "imageUrl": "/assets/mic.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Tv",
+        "price": 179.99,
+        "imageUrl": "/assets/tv.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Phone",
+        "price": 179.99,
+        "imageUrl": "/assets/phone.jpg"
+    }
+]
